@@ -94,3 +94,6 @@ footer{
     text-align: center;
     color: black;
 }
+.proj-img:hover{
+    width: 30%;
+}
